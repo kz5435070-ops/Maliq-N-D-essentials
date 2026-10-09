@@ -1,0 +1,16 @@
+h1 {text-align:center;
+   color:white;
+   font-family:arial;
+   font-size:36px;}
+p {font-family:georgia;
+  color:white;
+  font-size:24px;
+  }
+body {background-color:black;
+     }
+ul {list-style-type:none;
+   }
+li {display:inline;
+   padding:10px;
+   }
+img {width:250px;}
