@@ -9,8 +9,11 @@ p {font-family:georgia;
 body {background-color:black;
      }
 ul {list-style-type:none;
+    color:white;
    }
 li {display:inline;
    padding:10px;
+    font-family:arial;
+    color:white;
    }
 img {width:250px;}
